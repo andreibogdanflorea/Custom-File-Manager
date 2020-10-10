@@ -1,0 +1,22 @@
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Librarie.resources
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Setari.resources
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\obj\x86\Debug\Custom File Manager.csproj.GenerateResource.cache
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\obj\x86\Debug\Custom File Manager.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\bin\Debug\Custom File Manager.exe.config
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\bin\Debug\Custom File Manager.exe
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\bin\Debug\Custom File Manager.pdb
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\obj\x86\Debug\Custom File Manager.csprojAssemblyReference.cache
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\obj\x86\Debug\Custom File Manager.exe
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\obj\x86\Debug\Custom File Manager.pdb
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Custom File Manager\bin\Debug\Custom File Manager.exe.config
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Custom File Manager\bin\Debug\Custom File Manager.exe
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Custom File Manager\bin\Debug\Custom File Manager.pdb
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Custom File Manager\obj\x86\Debug\Custom File Manager.csprojAssemblyReference.cache
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Custom File Manager\obj\x86\Debug\WindowsFormsApplication1.Librarie.resources
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Custom File Manager\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Custom File Manager\obj\x86\Debug\WindowsFormsApplication1.Setari.resources
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Custom File Manager\obj\x86\Debug\Custom File Manager.csproj.GenerateResource.cache
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Custom File Manager\obj\x86\Debug\Custom File Manager.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Custom File Manager\obj\x86\Debug\Custom File Manager.exe
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Custom File Manager\obj\x86\Debug\Custom File Manager.pdb

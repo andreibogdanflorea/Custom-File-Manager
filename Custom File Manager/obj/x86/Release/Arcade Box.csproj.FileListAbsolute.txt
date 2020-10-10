@@ -1,0 +1,20 @@
+C:\Users\Andrei\documents\visual studio 2010\Projects\Arcade Box\Arcade Box\bin\Release\Arcade Box.exe
+C:\Users\Andrei\documents\visual studio 2010\Projects\Arcade Box\Arcade Box\bin\Release\Arcade Box.pdb
+C:\Users\Andrei\documents\visual studio 2010\Projects\Arcade Box\Arcade Box\obj\x86\Release\WindowsFormsApplication1.Login.resources
+C:\Users\Andrei\documents\visual studio 2010\Projects\Arcade Box\Arcade Box\obj\x86\Release\WindowsFormsApplication1.Librarie.resources
+C:\Users\Andrei\documents\visual studio 2010\Projects\Arcade Box\Arcade Box\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Andrei\documents\visual studio 2010\Projects\Arcade Box\Arcade Box\obj\x86\Release\WindowsFormsApplication1.Setari.resources
+C:\Users\Andrei\documents\visual studio 2010\Projects\Arcade Box\Arcade Box\obj\x86\Release\Arcade Box.csproj.GenerateResource.Cache
+C:\Users\Andrei\documents\visual studio 2010\Projects\Arcade Box\Arcade Box\obj\x86\Release\Arcade Box.exe
+C:\Users\Andrei\documents\visual studio 2010\Projects\Arcade Box\Arcade Box\obj\x86\Release\Arcade Box.pdb
+E:\Arcade Box\Arcade Box\bin\Release\Arcade Box.exe.config
+E:\Arcade Box\Arcade Box\bin\Release\Arcade Box.exe
+E:\Arcade Box\Arcade Box\bin\Release\Arcade Box.pdb
+E:\Arcade Box\Arcade Box\obj\x86\Release\WindowsFormsApplication1.Login.resources
+E:\Arcade Box\Arcade Box\obj\x86\Release\WindowsFormsApplication1.Librarie.resources
+E:\Arcade Box\Arcade Box\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\Arcade Box\Arcade Box\obj\x86\Release\WindowsFormsApplication1.Setari.resources
+E:\Arcade Box\Arcade Box\obj\x86\Release\Arcade Box.csproj.GenerateResource.Cache
+E:\Arcade Box\Arcade Box\obj\x86\Release\Arcade Box.exe
+E:\Arcade Box\Arcade Box\obj\x86\Release\Arcade Box.pdb
+E:\Arcade Box\Arcade Box\obj\x86\Release\WindowsFormsApplication1.Introducere.resources

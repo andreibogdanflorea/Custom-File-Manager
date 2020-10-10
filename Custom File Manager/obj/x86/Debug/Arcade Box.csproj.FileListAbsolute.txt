@@ -1,0 +1,109 @@
+C:\Users\Andrei\documents\visual studio 2010\Projects\Arcade Box\Arcade Box\bin\Debug\Arcade Box.exe
+C:\Users\Andrei\documents\visual studio 2010\Projects\Arcade Box\Arcade Box\bin\Debug\Arcade Box.pdb
+C:\Users\Andrei\documents\visual studio 2010\Projects\Arcade Box\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Andrei\documents\visual studio 2010\Projects\Arcade Box\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Andrei\documents\visual studio 2010\Projects\Arcade Box\Arcade Box\obj\x86\Debug\Arcade Box.csproj.GenerateResource.Cache
+C:\Users\Andrei\documents\visual studio 2010\Projects\Arcade Box\Arcade Box\obj\x86\Debug\Arcade Box.exe
+C:\Users\Andrei\documents\visual studio 2010\Projects\Arcade Box\Arcade Box\obj\x86\Debug\Arcade Box.pdb
+C:\Users\Andrei\documents\visual studio 2010\Projects\Arcade Box\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Librarie.resources
+C:\Users\Andrei\Documents\Visual Studio 2010\Projects\Arcade Box\Arcade Box\obj\x86\Debug\Arcade Box.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\documents\visual studio 2010\Projects\Arcade Box\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Setari.resources
+C:\Users\Andrei\documents\visual studio 2010\Projects\Arcade Box\Arcade Box\bin\Debug\Arcade Box.exe.config
+E:\Arcade Box\Arcade Box\bin\Debug\Arcade Box.exe.config
+E:\Arcade Box\Arcade Box\obj\x86\Debug\Arcade Box.exe
+E:\Arcade Box\Arcade Box\obj\x86\Debug\Arcade Box.pdb
+E:\Arcade Box\Arcade Box\bin\Debug\Arcade Box.exe
+E:\Arcade Box\Arcade Box\bin\Debug\Arcade Box.pdb
+E:\Arcade Box\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+E:\Arcade Box\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Librarie.resources
+E:\Arcade Box\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Arcade Box\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Setari.resources
+F:\Arcade Box\Arcade Box\bin\Debug\Arcade Box.exe.config
+F:\Arcade Box\Arcade Box\obj\x86\Debug\Arcade Box.exe
+F:\Arcade Box\Arcade Box\obj\x86\Debug\Arcade Box.pdb
+F:\Arcade Box\Arcade Box\bin\Debug\Arcade Box.exe
+F:\Arcade Box\Arcade Box\bin\Debug\Arcade Box.pdb
+F:\Arcade Box\Arcade Box\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Arcade Box\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+F:\Arcade Box\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Librarie.resources
+F:\Arcade Box\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Arcade Box\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Setari.resources
+F:\Arcade Box\Arcade Box\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Arcade Box\Arcade Box\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Arcade Box\Arcade Box\bin\Debug\Arcade Box.exe.config
+G:\Arcade Box\Arcade Box\obj\x86\Debug\Arcade Box.exe
+G:\Arcade Box\Arcade Box\obj\x86\Debug\Arcade Box.pdb
+G:\Arcade Box\Arcade Box\bin\Debug\Arcade Box.exe
+G:\Arcade Box\Arcade Box\bin\Debug\Arcade Box.pdb
+G:\Arcade Box\Arcade Box\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Arcade Box\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+G:\Arcade Box\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Librarie.resources
+G:\Arcade Box\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Arcade Box\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Setari.resources
+G:\Arcade Box\Arcade Box\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Arcade Box\Arcade Box\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Arcade Box\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Introducere.resources
+G:\Arcade Box\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Introducere.resources
+E:\Arcade Box\Arcade Box\obj\x86\Debug\Arcade Box.csproj.GenerateResource.Cache
+E:\Arcade Box\Arcade Box\obj\x86\Debug\Arcade Box.csprojResolveAssemblyReference.cache
+E:\Arcade Box Final\Arcade Box\bin\Debug\Arcade Box.exe.config
+E:\Arcade Box Final\Arcade Box\obj\x86\Debug\Arcade Box.exe
+E:\Arcade Box Final\Arcade Box\obj\x86\Debug\Arcade Box.pdb
+C:\Users\Andrei\Documents\Visual Studio 2010\Projects\Arcade Box Final\Arcade Box\bin\Debug\Arcade Box.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2010\Projects\Arcade Box Final\Arcade Box\obj\x86\Debug\Arcade Box.exe
+C:\Users\Andrei\Documents\Visual Studio 2010\Projects\Arcade Box Final\Arcade Box\obj\x86\Debug\Arcade Box.pdb
+C:\Users\Andrei\Documents\Visual Studio 2010\Projects\Arcade Box Final\Arcade Box\bin\Debug\Arcade Box.exe
+C:\Users\Andrei\Documents\Visual Studio 2010\Projects\Arcade Box Final\Arcade Box\bin\Debug\Arcade Box.pdb
+C:\Users\Andrei\Documents\Visual Studio 2010\Projects\Arcade Box Final\Arcade Box\obj\x86\Debug\Arcade Box.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2010\Projects\Arcade Box Final\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Andrei\Documents\Visual Studio 2010\Projects\Arcade Box Final\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Introducere.resources
+C:\Users\Andrei\Documents\Visual Studio 2010\Projects\Arcade Box Final\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Librarie.resources
+C:\Users\Andrei\Documents\Visual Studio 2010\Projects\Arcade Box Final\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Andrei\Documents\Visual Studio 2010\Projects\Arcade Box Final\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Setari.resources
+C:\Users\Andrei\Documents\Visual Studio 2010\Projects\Arcade Box Final\Arcade Box\obj\x86\Debug\Arcade Box.csproj.GenerateResource.Cache
+G:\Arcade Box Final\Arcade Box\bin\Debug\Arcade Box.exe.config
+G:\Arcade Box Final\Arcade Box\obj\x86\Debug\Arcade Box.exe
+G:\Arcade Box Final\Arcade Box\obj\x86\Debug\Arcade Box.pdb
+G:\Arcade Box Final\Arcade Box\bin\Debug\Arcade Box.exe
+G:\Arcade Box Final\Arcade Box\bin\Debug\Arcade Box.pdb
+G:\Arcade Box Final\Arcade Box\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Arcade Box Final\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+G:\Arcade Box Final\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Introducere.resources
+G:\Arcade Box Final\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Librarie.resources
+G:\Arcade Box Final\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Arcade Box Final\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Setari.resources
+G:\Arcade Box Final\Arcade Box\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Arcade Box Final\Arcade Box\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Arcade Box Final\Arcade Box\bin\Debug\Arcade Box.exe.config
+F:\Arcade Box Final\Arcade Box\obj\x86\Debug\Arcade Box.exe
+F:\Arcade Box Final\Arcade Box\obj\x86\Debug\Arcade Box.pdb
+F:\Arcade Box Final\Arcade Box\bin\Debug\Arcade Box.exe
+F:\Arcade Box Final\Arcade Box\bin\Debug\Arcade Box.pdb
+F:\Arcade Box Final\Arcade Box\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Arcade Box Final\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+F:\Arcade Box Final\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Introducere.resources
+F:\Arcade Box Final\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Librarie.resources
+F:\Arcade Box Final\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Arcade Box Final\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Setari.resources
+F:\Arcade Box Final\Arcade Box\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Arcade Box Final\Arcade Box\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Arcade Box Final\Arcade Box\bin\Debug\Arcade Box.exe
+E:\Arcade Box Final\Arcade Box\bin\Debug\Arcade Box.pdb
+E:\Arcade Box Final\Arcade Box\obj\x86\Debug\Arcade Box.csprojResolveAssemblyReference.cache
+E:\Arcade Box Final\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+E:\Arcade Box Final\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Introducere.resources
+E:\Arcade Box Final\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Librarie.resources
+E:\Arcade Box Final\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Arcade Box Final\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Setari.resources
+E:\Arcade Box Final\Arcade Box\obj\x86\Debug\Arcade Box.csproj.GenerateResource.Cache
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\bin\Debug\Arcade Box.exe.config
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\bin\Debug\Arcade Box.exe
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\bin\Debug\Arcade Box.pdb
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\obj\x86\Debug\Arcade Box.csprojAssemblyReference.cache
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Librarie.resources
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\obj\x86\Debug\WindowsFormsApplication1.Setari.resources
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\obj\x86\Debug\Arcade Box.csproj.GenerateResource.cache
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\obj\x86\Debug\Arcade Box.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\obj\x86\Debug\Arcade Box.exe
+D:\OneDrive - Universitatea Politehnica Bucuresti\Documents\Proiecte\Custom File Manager\Arcade Box\obj\x86\Debug\Arcade Box.pdb
