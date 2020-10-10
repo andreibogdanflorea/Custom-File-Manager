@@ -10,7 +10,7 @@ Productivity seems to be the defining word of many apps in the last few years.
 
 The Custom File Manager embodies this ideology, by allowing its user to have full 
 control over which files they want to add in order to access them easily later.
-<br/>
+<br>
 
 ## Using the program ##
 There are four tabs on which you can add and group files/folders:
